@@ -6,24 +6,22 @@ button.addEventListener("click", handleCostCalculation);
 
 function handleCostCalculation() {
   if (inputElement.value === "") {
-    alert("Por favor, insira um valor.");
+    alert("Please enter a value.");
     return;
   }
 
   const regex = /^[0-9]+$/;
-
   if (!regex.test(inputElement.value)) {
-    alert("Por favor, insira apenas números.");
+    alert("Please enter numbers only.");
     inputElement.value = "";
     return;
   }
 
   let cost = Number(inputElement.value);
-
   if (cost < 40) {
     cost += 10;
   }
-  costTotal.innerHTML = `$${cost}`;
+  costTotal.innerHTML = `Total cost: $${cost}`;
 }
 
 inputElement.addEventListener("keypress", function (event) {
