@@ -22,6 +22,13 @@ function handleCostCalculation() {
     cost += 10;
   }
   costTotal.innerHTML = `Total cost: $${cost}`;
+
+  if (button.innerHTML == "Calculate") {
+    button.textContent = "Calculated";
+    button.classList.add("is-clicked");
+  }
+
+  inputElement.value = "";
 }
 
 inputElement.addEventListener("keypress", function (event) {
