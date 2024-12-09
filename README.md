@@ -12,7 +12,7 @@ Simula o clássico jogo Pedra, Papel e Tesoura. O usuário joga contra o computa
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/Rock-Paper-Scissors/blob/main/assets/Layout%20-%20Rock-Paper-Scissors.png">
+  <img alt="License" src="">
 </p>
 
 <br>
