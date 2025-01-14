@@ -1,7 +1,7 @@
 <h1 align="center"> Rock-Paper-Scissors </h1>
 
 <p align="center">
-Simula o clássico jogo Pedra, Papel e Tesoura. O usuário joga contra o computador, que faz escolhas aleatórias. O placar mantém o registro de vitórias, derrotas e empates, exibido em tempo real. Site disponível em: https://brunooliveira7.github.io/Rock-Paper-Scissors
+Simula o clássico jogo Pedra, Papel e Tesoura. O usuário joga contra o computador, que faz escolhas aleatórias. O placar mantém o registro de vitórias, derrotas e empates, exibido em tempo real. Site disponível em: https://brunooliveira7.github.io/Shipping-calculator
 </p>
 
 <p align="center">
