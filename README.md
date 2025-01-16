@@ -12,6 +12,10 @@ Simula o clássico jogo Pedra, Papel e Tesoura. O usuário joga contra o computa
 </p>
 
 <p align="center">
+  <img alt="License" src="https://github.com/brunooliveira7/Shipping-calculator/blob/main/src/Layout%201.png">
+</p>
+
+<p align="center">
   <img alt="License" src="">
 </p>
 
