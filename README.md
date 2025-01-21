@@ -1,7 +1,7 @@
 <h1 align="center"> Shipping-calculator </h1>
 
 <p align="center">
-Simula o clássico jogo Pedra, Papel e Tesoura. O usuário joga contra o computador, que faz escolhas aleatórias. O placar mantém o registro de vitórias, derrotas e empates, exibido em tempo real. Site disponível em: https://brunooliveira7.github.io/Shipping-calculator
+ Site disponível em: https://brunooliveira7.github.io/Shipping-calculator
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Com botões para selecionar cada opção e uma visualização do resultado de cada rodada. Ideal para passar o tempo e desafiar amigos para ver quem consegue a maior pontuação!
+
 
 ## :memo: Licença
 
