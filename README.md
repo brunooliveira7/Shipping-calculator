@@ -29,10 +29,6 @@ Projeto desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-## 💻 Projeto
-
-
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
