@@ -1,7 +1,7 @@
 <h1 align="center"> Shipping-calculator </h1>
 
 <p align="center">
- Simula um botão da Amazon que gera um custo total de um envio de uma mercadoria. Se a mercadoria adquirida tiver o seu valor inferior a 40 dólares, o custo total da entrega é acrescido de 10 dólares, senão o custo é o próprio valor da mercadoria. Site disponível em: https://brunooliveira7.github.io/Shipping-calculator
+ Simula um botão da Amazon que gera um custo total de um envio de uma mercadoria. Se a mercadoria adquirida tiver o seu valor inferior a 40 dólares, o custo total da entrega é acrescido de 10 dólares, se não o custo é o próprio valor da mercadoria. Site disponível em: https://brunooliveira7.github.io/Shipping-calculator
 </p>
 
 <p align="center">
